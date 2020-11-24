@@ -31,10 +31,10 @@ etc...) allow you to do your best work?
         - CI/CD easier to configure than others, because all is based on `Node.js`.
 1. Starting a new project, how do you decide which database engine to use for your primary database? What factors go into considering a relational database like PostgreSql vs a NoSQL document storage database like MongoDB?
     - I choose relational DBs:
-        - When is a requirement from customer side.
+        - When is a mandatory requirement from customer side.
         - When we need to ensure high transactionality.
         - When you need to provide a lot of reports.
-        - When we have a complex structure and realtions between the system semantic entities.
+        - When we have a structure and relations complex between the system semantic entities.
     - I choose NoSql (MongoDB):
         - When the bullets mentioned to choose relational DBs are not present.
         - When we have a simple use cases for app, or the product has a very specific audience (Niche scope).
