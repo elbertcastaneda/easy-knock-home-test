@@ -17,6 +17,8 @@ etc...) allow you to do your best work?
     - `React.js`
     - `Express`/`Nest.js`
     - `Next.js`
+    - `Jest`
+    - `Webpack`, `Prettier` + `ESLint` + `Husky` + `lint-staged`
     - Database is depending of the scope and requirements (Usually I would like to use: `MongoDB`, `Postgres`, or `MariaDB`)
     - For Caching/Settings I prefer use `Redis`
     - Why this stack?, as we noticed my favorite stack is around `JS/TS` (Yes, I love JS/TS) but let try to give more convincent reasons:
