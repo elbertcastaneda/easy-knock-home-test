@@ -41,12 +41,17 @@ etc...) allow you to do your best work?
         - When the bullets mentioned to choose relational DBs are not present.
         - When we have a simple use cases for app, or the product has a very specific audience (Niche scope).
         - If the stack is around Node.js, it is a another perfect sign to use MongoDB, because is based on JSON/JS structure and syntax.
-        - When we have a very fickle project regarding it's requirements or proyections, sometimes when the project is compenting with a lot of similar project NoSql database is a good option to win agility to scale and maintain much more easier.
+        - When we have a very fickle project regarding it's requirements or projections, sometimes when the project is compenting with a lot of similar project NoSql database is a good option to win agility to scale and maintain much more easier.
 
 1. How do you feel about automated testing? How do you know when you have a sufficient amount of automated tests?
-    - R.
+    - I am sure that automation testing increase a lot the people confidence in an application.
+    - In my opinion automation is the kind of things which a company doesn't know how much the company need it only until the company starts to produce automation code to ensure you a high quality in his products.
+    - Based on my experience the best way to put a limit to how much automatition code the teams generate, is sync the test cases with scrum project management, you need to create only the necessary automation code to cover the Acceptance Criteria declared on the user stories.
+    - The percentage of automation code (e2e, and integration) should be increase if you dont have a good coverage of unit testing.
 1. Please share a link to a public repository or a bit of code you are most proud of, why are you proud of this piece of code or project?
-    - R.
+    - The most code that I am proud of is on private repositories that I don't have access on this moment. But let me share a couple of basic squeletons that I was/am working on it during my free time:
+        - A great project that I developed to mentoring people in Node.js - Backend: https://github.com/elbertcastaneda/nodejs-epam-hw-tasks
+        - Fullstach Node.js skeleton that I am creating using TS + Nest.js + TypeORM + Next.js + React.js + styledcomponens + Prettier + ESlint + Husky + lint-stage + Docker: https://github.com/elbertcastaneda/fullstack.js.
 
 ---
 
