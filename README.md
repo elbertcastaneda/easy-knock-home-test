@@ -30,7 +30,17 @@ etc...) allow you to do your best work?
         - Find `Software Engineers` with the most of this skills is very easy.
         - CI/CD easier to configure than others, because all is based on `Node.js`.
 1. Starting a new project, how do you decide which database engine to use for your primary database? What factors go into considering a relational database like PostgreSql vs a NoSQL document storage database like MongoDB?
-    - R.
+    - I choose relational DBs:
+        - When is a requirement from customer side.
+        - When we need to ensure high transactionality.
+        - When you need to provide a lot of reports.
+        - When we have a complex structure and realtions between the system semantic entities.
+    - I choose NoSql (MongoDB):
+        - When the bullets mentioned to choose relational DBs are not present.
+        - When we have a simple use cases for app, or the product has a very specific audience (Niche scope).
+        - If the stack is around Node.js, it is a another perfect sign to use MongoDB, because is based on JSON/JS structure and syntax.
+        - When we have a very fickle project regarding it's requirements or proyections, sometimes when the project is compenting with a lot of similar project NoSql database is a good option to win agility to scale and maintain much more easier.
+
 1. How do you feel about automated testing? How do you know when you have a sufficient amount of automated tests?
     - R.
 1. Please share a link to a public repository or a bit of code you are most proud of, why are you proud of this piece of code or project?
