@@ -70,3 +70,6 @@ Suppose you’re given a list of failed rules and another list of executed rules
 1. Open a terminal on this folder
 1. Run: `yarn install` or `npm install`
 1. Run: `npx jest`
+
+
+*NOTE:* The explanation of my function on BigO notation was added as comment on the source code file.
