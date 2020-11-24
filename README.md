@@ -51,8 +51,10 @@ etc...) allow you to do your best work?
 1. Please share a link to a public repository or a bit of code you are most proud of, why are you proud of this piece of code or project?
     - The most code that I am proud of is on private repositories that I don't have access on this moment. But let me share a couple of basic squeletons that I was/am working on it during my free time:
         - A great project that I developed to mentoring people in Node.js - Backend: https://github.com/elbertcastaneda/nodejs-epam-hw-tasks
-        - Fullstach Node.js skeleton that I am creating using TS + Nest.js + TypeORM + Next.js + React.js + styledcomponens + Prettier + ESlint + Husky + lint-stage + Docker: https://github.com/elbertcastaneda/fullstack.js.
-
+            - I am proud of this project because I think that it is a great project to immerse people in the Node.js backend world step by step (Branch per step)
+        - Fullstach Node.js skeleton that I am creating using TS + Nest.js + TypeORM + Jest + Next.js + React.js + styledcomponens + Prettier + ESlint + Husky + lint-stage + Docker: https://github.com/elbertcastaneda/fullstack.js.
+            - I am proud of this project because it is a great standalone skeleton to start working on a full-stack project from scratch, with all the mentioned tools completly configured.
+            - As I mentioned I am working on it yet, my idea is create a cli application to create new apps from this skeleton.
 ---
 
 # Coding Challenge:
