@@ -38,6 +38,14 @@ etc...) allow you to do your best work?
 
 ---
 
+# Coding Challenge:
+
+We use a list of rules to qualify potential clients in order to buy their homes. Sometimes we do not have enough information to execute a rule, for example if the year built is not available. As part of our evaluation process we want to figure out if at least one rule had both failed and executed.
+
+Suppose you’re given a list of failed rules and another list of executed rules, the rules all being alphanumeric strings. For example `failedRules = ['propertyType', 'homeCondition']` and `executedRules = ['yearBuilt', 'homeCondition']`. Please write a function, in whatever language you want, that takes in a list of failed rules and a list of executed rules, and returns whether or not there are any rules in both. What can you tell us about the efficiency of your function, in big-O notation.
+
+---
+
 # Steps to test code
 
 1. Open a terminal on this folder
