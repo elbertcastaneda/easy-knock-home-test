@@ -23,7 +23,7 @@ etc...) allow you to do your best work?
         - Universal domain language.
         - Avoid the fatigue to be switching your brain between languages.
         - In fact with React we are achieving use JS/TS instead of any views template language like Angular/Vue/Svelte, or Handlebars, Pug, or EJS in the server side.
-        - The maximum ubral of base code re-using (Even between BE/FE).
+        - A maximum threshold of source code reuse (Even between BE/FE).
         - The tools that I mentioned has a great and big open source community (Including a great documentation).
         - JS/TS are easy to learn.
         - We have a lot of posibilities, when we need to scalate and application developed over this stack (`Next.js` and `SSR` is a great example of this).
