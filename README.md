@@ -26,7 +26,7 @@ etc...) allow you to do your best work?
         - The maximum ubral of base code re-using (Even between BE/FE).
         - The tools that I mentioned has a great and big open source community (Including a great documentation).
         - JS/TS are easy to learn.
-        - We have a lot of posibilities, when we need to scalate and application developed over this stack (Next.js and SSR is a great example of this).
+        - We have a lot of posibilities, when we need to scalate and application developed over this stack (`Next.js` and `SSR` is a great example of this).
         - Find `Software Engineers` with the most of this skills is very easy.
         - CI/CD easier to configure than others, because all is based on `Node.js`.
 1. Starting a new project, how do you decide which database engine to use for your primary database? What factors go into considering a relational database like PostgreSql vs a NoSQL document storage database like MongoDB?
